@@ -3,8 +3,6 @@
 import search 
 import sokoban
 
-# I changed a bit of the numbers so that it shows the up, down, left and right accordingly and capitalized the
-# names so that it matches with the standard Sokoban action name
 directions = {
     'Up': (0, -1),
     'Down' : (0, 1),

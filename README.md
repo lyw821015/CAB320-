@@ -1,4 +1,4 @@
-# CAB320-
+# CAB320- QUT 과제 (호주 교환학생)
 
 import search 
 import sokoban
